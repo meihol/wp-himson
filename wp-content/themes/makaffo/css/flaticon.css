@@ -1,0 +1,135 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon_makaffofont.ttf?7fb25af9478be2a952915ab9a5d7f27d") format("truetype"),
+url("../fonts/flaticon_makaffofont.woff?7fb25af9478be2a952915ab9a5d7f27d") format("woff"),
+url("../fonts/flaticon_makaffofont.woff2?7fb25af9478be2a952915ab9a5d7f27d") format("woff2"),
+url("../fonts/flaticon_makaffofont.eot?7fb25af9478be2a952915ab9a5d7f27d#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_makaffofont.svg?7fb25af9478be2a952915ab9a5d7f27d#flaticon_makaffofont") format("svg");
+}
+
+[class^="ot-flaticon-"], [class*=" ot-flaticon-"],
+[class^="ot-flaticon-"], [class*=" ot-flaticon-"] {
+    display: inline-block;
+}
+[class^="ot-flaticon-"]:before, [class*=" ot-flaticon-"]:before,
+[class^="ot-flaticon-"]:after, [class*=" ot-flaticon-"]:after {
+    font-family: flaticon !important;
+    font-size: 20px;
+    font-style: normal;
+    vertical-align: middle;
+}
+
+.ot-flaticon-down-arrow:before {
+    content: "\f101";
+}
+.ot-flaticon-check:before {
+    content: "\f102";
+}
+.ot-flaticon-check-box:before {
+    content: "\f103";
+}
+.ot-flaticon-arrow:before {
+    content: "\f104";
+}
+.ot-flaticon-right:before {
+    content: "\f105";
+}
+.ot-flaticon-left:before {
+    content: "\f106";
+}
+.ot-flaticon-check-1:before {
+    content: "\f107";
+}
+.ot-flaticon-check-2:before {
+    content: "\f108";
+}
+.ot-flaticon-facebook-app-symbol:before {
+    content: "\f109";
+}
+.ot-flaticon-instagram:before {
+    content: "\f10a";
+}
+.ot-flaticon-twitter:before {
+    content: "\f10b";
+}
+.ot-flaticon-dribbble-logo:before {
+    content: "\f10c";
+}
+.ot-flaticon-pinterest:before {
+    content: "\f10d";
+}
+.ot-flaticon-vk-logo-of-social-network:before {
+    content: "\f10e";
+}
+.ot-flaticon-vimeo:before {
+    content: "\f10f";
+}
+.ot-flaticon-reddit:before {
+    content: "\f110";
+}
+.ot-flaticon-behance:before {
+    content: "\f111";
+}
+.ot-flaticon-linkedin:before {
+    content: "\f112";
+}
+.ot-flaticon-google-plus:before {
+    content: "\f113";
+}
+.ot-flaticon-tumblr:before {
+    content: "\f114";
+}
+.ot-flaticon-youtube:before {
+    content: "\f115";
+}
+.ot-flaticon-github:before {
+    content: "\f116";
+}
+.ot-flaticon-github-1:before {
+    content: "\f117";
+}
+.ot-flaticon-magnifying-glass:before {
+    content: "\f118";
+}
+.ot-flaticon-search:before {
+    content: "\f119";
+}
+.ot-flaticon-next:before {
+    content: "\f11a";
+}
+.ot-flaticon-right-1:before {
+    content: "\f11b";
+}
+.ot-flaticon-link:before {
+    content: "\f11c";
+}
+.ot-flaticon-play-button:before {
+    content: "\f11d";
+}
+.ot-flaticon-right-arrows:before {
+    content: "\f11e";
+}
+.ot-flaticon-plus:before {
+    content: "\f11f";
+}
+.ot-flaticon-right-arrow:before {
+    content: "\f120";
+}
+.ot-flaticon-top-right:before {
+    content: "\f121";
+}
+.ot-flaticon-call:before {
+    content: "\f122";
+}
+.ot-flaticon-sync:before {
+    content: "\f123";
+}
+.ot-flaticon-menu:before {
+    content: "\f124";
+}
+.ot-flaticon-menu-1:before {
+    content: "\f125";
+}
+.ot-flaticon-shopping-cart:before {
+    content: "\f126";
+}

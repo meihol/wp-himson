@@ -1,0 +1,39 @@
+/*
+Theme Name:   Makaffo Child
+Theme URI:    https://demo.oceanthemes.site/makaffo/
+Description:  Make your modifications to [Parent Theme] in this Makaffo child theme.
+Author:       OceanThemes
+Author URI:   http://oceanthemes.net/
+Template:     makaffo
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  makaffo-child
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+.ot-team__inner .ot-team__info {
+	position: relative;
+    width: 100%;
+	opacity: 1;
+    left: auto !important;
+    bottom: 50px;
+}
+.ot-team__inner .ot-team__info .team-social {
+	display: none;
+}
+.tabs-justified .ot-tabs__link {display: block;}
+.wp-singular ul {
+	margin-block-end: 0;
+}
+#royal_preloader.complete{
+	display: none;
+}
+.himson-404-logo {
+	width: 178px;
+	height: auto;
+	margin-block-end: 60px;
+}
